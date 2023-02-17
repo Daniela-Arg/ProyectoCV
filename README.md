@@ -1,2 +1,0 @@
-# ProyectoCV
-CV proyecto TICMAS
